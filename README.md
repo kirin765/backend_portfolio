@@ -12,6 +12,7 @@
 - [JPA와 JPQL학습](https://github.com/kirin765/hellojpql)
 - [스프링 웹서비스, AWS, CI/CD 구현](https://github.com/kirin765/springboot2-webservice)
 - [Querydsl 학습](https://github.com/kirin765/querydsl)
+- [스프링 JPA 학습](https://github.com/kirin765/data-jpa)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
