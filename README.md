@@ -19,6 +19,7 @@
 - [도커 컴포즈 연습](https://github.com/kirin765/docker-compose-app)
 - [도커 CI/CD](https://github.com/kirin765/docker-react-app)
 - [도커 beanstalk 배포](https://github.com/kirin765/docker-fullstack-app)
+- [쿠버네티스 기초](https://github.com/kirin765/kube_basic)
 
 ## Express
 - [게임 랭킹 서버](https://github.com/kiwan97/rankserver)
