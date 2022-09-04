@@ -15,6 +15,7 @@
 - [스프링 JPA 학습](https://github.com/kirin765/data-jpa)
 - [스프링 기본 복습](https://github.com/kirin765/core2)
 - [스프링 서블릿 복습](https://github.com/kirin765/servlet2)
+- [스프링 mvc 복습](https://github.com/kirin765/springmvc2)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
