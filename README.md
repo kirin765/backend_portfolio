@@ -18,6 +18,7 @@
 - [스프링 mvc 복습](https://github.com/kirin765/springmvc2)
 - [상품서비스 웹 복습](https://github.com/kirin765/itemservice2)
 - [타임리프 복습](https://github.com/kirin765/thymeleafbasic2)
+- [타임리프 스프링통합, 폼 복습](https://github.com/kirin765/form2)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
