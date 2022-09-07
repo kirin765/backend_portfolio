@@ -22,6 +22,7 @@
 - [메시지, 국제화 복습](https://github.com/kirin765/message2)
 - [스프링 validation 복습](https://github.com/kirin765/validation2)
 - [로그인 복습](https://github.com/kirin765/login2)
+- [예외처리 복습](https://github.com/kirin765/exception2)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
