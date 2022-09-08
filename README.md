@@ -23,6 +23,7 @@
 - [스프링 validation 복습](https://github.com/kirin765/validation2)
 - [로그인 복습](https://github.com/kirin765/login2)
 - [예외처리 복습](https://github.com/kirin765/exception2)
+- [타입컨버터 복습](https://github.com/kirin765/typeconverter2)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
