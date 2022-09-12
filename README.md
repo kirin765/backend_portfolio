@@ -42,3 +42,4 @@
 ## 기본지식
 - [HTTP기본지식](https://github.com/kirin765/HTTP-study-arrangement)
 - [자바정석](https://github.com/kirin765/javaJUNGSUK)
+- [디자인패턴](https://github.com/kirin765/design-patterns)
