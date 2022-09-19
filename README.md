@@ -25,6 +25,7 @@
 - [예외처리 복습](https://github.com/kirin765/exception2)
 - [타입컨버터 복습](https://github.com/kirin765/typeconverter2)
 - [파일 업로드 복습](https://github.com/kirin765/upload2)
+- [JDBC](https://github.com/kirin765/jdbc)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
