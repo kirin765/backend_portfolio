@@ -28,6 +28,7 @@
 - [JDBC](https://github.com/kirin765/jdbc)
 - [데이터 접근 기술](https://github.com/kirin765/itemservice-db)
 - [MemberSearch](https://github.com/kirin765/memberSearch)
+- [JPA 책 ch1](https://github.com/kirin765/ch1-jpa)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
