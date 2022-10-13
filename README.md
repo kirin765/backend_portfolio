@@ -31,6 +31,7 @@
 - [JPA 책 ch1](https://github.com/kirin765/ch1-jpa)
 - [JPA 책 ch2](https://github.com/kirin765/jpa-ch2)
 - [JPA 책 ch4](https://github.com/kirin765/jpa-ch4)
+- [JPA 책 실습](https://github.com/kirin765/jpa-book-practice)
 
 ## Docker
 - [도커 파일 연습](https://github.com/kirin765/nodejs-docker-app)
